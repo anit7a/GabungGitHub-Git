@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     cout << "Hello, Word..." << endl;
-    cout << "Menambahkan hal baru" << endl;
+    cout << "aku rubah hal ini" << endl;
 
     return 0;
 }
